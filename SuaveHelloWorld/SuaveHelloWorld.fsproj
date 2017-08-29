@@ -57,7 +57,6 @@
   <ItemGroup>
     <None Include="App.config" />
     <Content Include="packages.config" />
-    <None Include="procfile" />
     <Compile Include="AssemblyInfo.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
