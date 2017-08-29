@@ -1,1 +1,1 @@
-web: mono BernsFamilyScrapbook.exe
+web: mono BernsFamilyScrapbook/BernsFamilyScrapbook.exe
