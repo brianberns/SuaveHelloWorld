@@ -1,1 +1,1 @@
-web: mono SuaveHelloWorld.exe
+web: mono bin/Debug/SuaveHelloWorld.exe
