@@ -1,1 +1,1 @@
-web: mono bin/Debug/BernsFamilyScrapbook.exe
+web: mono SuaveHelloWorld.exe
